@@ -32,3 +32,5 @@ Starting out as a web developer with a background as an accountant and a chief a
 - English: A2
 - French: B2
 - Russian: Native
+
+- 
